@@ -21,25 +21,25 @@
 </a>
 
 ## my projects:
-<p style="display: flex; gap: 10px 20px; flex-wrap: wrap">
-  <a style="display: block;" href="https://github.com/pepe5p/ozns-bot">
+<p style="display: flex; gap: 10px 20px;">
+  <a style="display: block; flex-basis: 30%" href="https://github.com/pepe5p/ozns-bot">
     <img src="https://user-images.githubusercontent.com/92339606/161807669-48fc7b3d-7e9d-470a-a9df-25e53d7130d0.png" title="ozns-bot">
   </a>
-  <a style="display: block;" href="https://github.com/pepe5p/semeno">
+  <a style="display: block; flex-basis: 70%" href="https://github.com/pepe5p/semeno">
     <img src="https://user-images.githubusercontent.com/92339606/161811678-c496fe90-383b-46be-94d9-1ad048645c32.png" title="semeno">
   </a>
 
-  <a style="display: block;" href="https://github.com/pepe5p/ols">
+  <a style="display: block; flex-basis: 30%" href="https://github.com/pepe5p/ols">
     <img src="https://user-images.githubusercontent.com/92339606/161812742-4bf5a2ae-45d0-48ff-a315-486e4b1763b7.png" title="ols">
   </a>
-  <a style="display: block;" href="https://github.com/pepe5p/toast_company">
+  <a style="display: block; flex-basis: 70%" href="https://github.com/pepe5p/toast_company">
     <img src="https://user-images.githubusercontent.com/92339606/161815204-cf73db6a-83b5-45b4-8d36-58ef8f562164.png" title="toast_company">
   </a>
 
-  <a style="display: block;" href="https://github.com/pepe5p/ozns-mp">
+  <a style="display: block; flex-basis: 70%" href="https://github.com/pepe5p/ozns-mp">
     <img src="https://user-images.githubusercontent.com/92339606/161820782-24830307-6da7-49f6-952d-37afd6eb9f8d.png" title="ozns-mp">
   </a>
-  <a style="display: block;" href="https://github.com/pepe5p/setbol">
+  <a style="display: block; flex-basis: 30%" href="https://github.com/pepe5p/setbol">
     <img src="https://user-images.githubusercontent.com/92339606/161820879-4f7168df-c316-41ad-8282-cc354c7cdd96.png" title="setbol">
   </a>
 </p>
