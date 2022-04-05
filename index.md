@@ -21,29 +21,25 @@
 </a>
 
 ## my projects:
-<p>
-<a href="https://github.com/pepe5p/ozns-bot">
-  <img src="https://user-images.githubusercontent.com/92339606/161807669-48fc7b3d-7e9d-470a-a9df-25e53d7130d0.png" height="400" title="ozns-bot">
-</a>
-<a href="https://github.com/pepe5p/semeno">
-  <img src="https://user-images.githubusercontent.com/92339606/161811678-c496fe90-383b-46be-94d9-1ad048645c32.png" height="400" title="semeno">
-</a>
-</p>
+<p style="display: flex;">
+  <a style="display: block;" href="https://github.com/pepe5p/ozns-bot">
+    <img src="https://user-images.githubusercontent.com/92339606/161807669-48fc7b3d-7e9d-470a-a9df-25e53d7130d0.png" width="22%" title="ozns-bot">
+  </a>
+  <a style="display: block;" href="https://github.com/pepe5p/semeno">
+    <img src="https://user-images.githubusercontent.com/92339606/161811678-c496fe90-383b-46be-94d9-1ad048645c32.png" width="77.5%" title="semeno">
+  </a>
 
-<p>
-<a href="https://github.com/pepe5p/ols">
-  <img src="https://user-images.githubusercontent.com/92339606/161812742-4bf5a2ae-45d0-48ff-a315-486e4b1763b7.png" height="400" title="ols">
-</a>
-<a href="https://github.com/pepe5p/toast_company">
-  <img src="https://user-images.githubusercontent.com/92339606/161815204-cf73db6a-83b5-45b4-8d36-58ef8f562164.png" height="400" title="toast_company">
-</a>
-</p>
+  <a style="display: block;" href="https://github.com/pepe5p/ols">
+    <img src="https://user-images.githubusercontent.com/92339606/161812742-4bf5a2ae-45d0-48ff-a315-486e4b1763b7.png" width="77.5%" title="ols">
+  </a>
+  <a style="display: block;" href="https://github.com/pepe5p/toast_company">
+    <img src="https://user-images.githubusercontent.com/92339606/161815204-cf73db6a-83b5-45b4-8d36-58ef8f562164.png" width="22%" title="toast_company">
+  </a>
 
-<p>
-<a href="https://github.com/pepe5p/ozns-mp">
-  <img src="https://user-images.githubusercontent.com/92339606/161820782-24830307-6da7-49f6-952d-37afd6eb9f8d.png" height="400" title="ozns-mp">
-</a>
-<a href="https://github.com/pepe5p/setbol">
-  <img src="https://user-images.githubusercontent.com/92339606/161820879-4f7168df-c316-41ad-8282-cc354c7cdd96.png" height="400" title="setbol">
-</a>
+  <a style="display: block;" href="https://github.com/pepe5p/ozns-mp">
+    <img src="https://user-images.githubusercontent.com/92339606/161820782-24830307-6da7-49f6-952d-37afd6eb9f8d.png" width="22%" title="ozns-mp">
+  </a>
+  <a style="display: block;" href="https://github.com/pepe5p/setbol">
+    <img src="https://user-images.githubusercontent.com/92339606/161820879-4f7168df-c316-41ad-8282-cc354c7cdd96.png" width="77.5%" title="setbol">
+  </a>
 </p>
